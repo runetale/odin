@@ -1,4 +1,4 @@
-# vision
+# odin
 this project now work in progress, we will released by 2025/3
 
 building for ai application.
